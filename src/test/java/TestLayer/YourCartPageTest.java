@@ -30,6 +30,7 @@ public class YourCartPageTest extends BaseClass{
 	 public void validateClickOnCheckoutPage()
 	 {
 		 yourcartpage.clickOnCheckout();
+		 System.out.println("YourCartPage TC created by Tester1");
 		 
 		 
 	 }
