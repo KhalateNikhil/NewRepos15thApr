@@ -21,6 +21,7 @@ public class YourInfoPageTest extends BaseClass{
 	{
 		
 		yourinfopage.YourInfoPageFunctionality("Rushi", "Khalate", "415123");
+		System.out.println("YourInfoPage TC created by Tester2");
 	}
 	
 	
