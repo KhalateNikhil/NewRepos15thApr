@@ -32,6 +32,7 @@ public class HomePageTest extends BaseClass{
 	  public void validateAddProductToCart()
 	  {
 		  homepage.addProductToCart();
+		  System.out.println("HomePage TC created by Tester2");
 	  }
 	  
 	  
