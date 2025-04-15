@@ -28,6 +28,7 @@ public class LoginPageTest extends BaseClass{
      {
     	 Thread.sleep(5000);
     	 driver.quit();
+    	 System.out.println("LoginPage TC created by Tester 1");
      }
 
 
